@@ -1,0 +1,20 @@
+.square {
+  // height: 30%;
+  width: 20rem;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: 1.5em;
+  padding-left: 0;
+}
+ul>li {
+  position: relative;
+}
+span {
+  left: -2em;
+  position: absolute;
+  text-align: center;
+  width: 2em;
+  line-height: inherit;
+}
