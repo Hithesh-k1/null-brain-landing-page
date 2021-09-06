@@ -1,34 +1,17 @@
-// img {
-//   border-radius: 50%;
-// }
-
 .avatar {
   border-radius: 50%;
-
   height: 130px;
   width: 180px;
-//   &__bg {
-//     background-color: chartreuse;
-//     border-radius: 50% 0% 50% 50%;
-//   }
+
 }
 
 .circular_image {
   width: 8rem;
-  // height: 150px;
   border-radius: 50%;
   overflow: hidden;
-  // background-color: blue;
-  /* commented for demo
-  float: left;
-  margin-left: 125px;
-  margin-top: 20px;
-  */
-  
-  /*for demo*/
-  display:inline-block;
-  vertical-align:middle;
+  display: inline-block;
+  vertical-align: middle;
 }
-.circular_image img{
-  width:100%;
+.circular_image img {
+  width: 100%;
 }
