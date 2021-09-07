@@ -11,7 +11,7 @@ Responsive SPA, built with React, Bootstrap, and SCSS.
 ## Project Status
 
 This project is deployed in netilify. User can view this single page application as of now data are static and no functionality is added.
- [Deployed Link](https://nullbrains1.netlify.app)
+ [Deployed Link](https://nullbrain1.netlify.app)
 
 ## Project Screen Shot(s)
 
